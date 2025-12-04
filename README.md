@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey! I'm glad you're here 👋  
+I love creating, experimenting, and improving my skills through real projects.  
+This profile is where I document my journey in tech and share what I'm working on.
